@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -18,7 +17,7 @@ function App() {
                 <a href="index.html" className="nav-link nav-link-apple"></a>
               </li>
               <li className="nav-item">
-                <a href='#' className="nav-link nav-link-bag"></a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link-bag"></a>
               </li>
             </ul>
             {/* <nav-list nav-list-mobile> */}
@@ -27,31 +26,31 @@ function App() {
                 <a href="index.html" className="nav-link nav-link-apple"></a>
               </li>
               <li className="nav-item">
-                <a href='#' className="nav-link nav-link">У</a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link">У</a>
               </li>
               <li className="nav-item">
-                <a href='#' className="nav-link nav-link">Геги</a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link">Геги</a>
               </li>
               <li className="nav-item">
-                <a href='#' className="nav-link nav-link">Не</a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link">Не</a>
               </li>
               <li className="nav-item">
-                <a href='#' className="nav-link nav-link">Пошёл</a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link">Пошёл</a>
               </li>
               <li className="nav-item">
-                <a href='#' className="nav-link nav-link">Киберпанк</a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link">Киберпанк</a>
               </li>
               <li className="nav-item">
-                <a href='#' className="nav-link nav-link">Ха</a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link">Ха</a>
               </li>
               <li className="nav-item">
-                <a href='#' className="nav-link nav-link">Ха</a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link">Ха</a>
               </li>
               <li className="nav-item">
-                <a href='#' className="nav-link nav-search"></a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-search"></a>
               </li>
               <li className="nav-item nav-item-hidden">
-                <a href='#' className="nav-link nav-link-bag"></a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link-bag"></a>
               </li>
             </ul>
             {/* <nav-list nav-list-larger> */}
@@ -66,8 +65,8 @@ function App() {
           <p className="title-price">From $24.95/mo. or $599 with trade-in Детский садик</p>
         </div>
         <div className="cta">
-          <a href="#" className="cta-link">Learn More</a>
-          <a href="#" className="cta-link">Buy</a>
+          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3" className="cta-link">Learn More</a>
+          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3" className="cta-link">Buy</a>
         </div>
       </div>
     </div>
@@ -80,8 +79,8 @@ function App() {
           <p className="title-price">From $16.62/mo. or $399 with trade-in</p>
         </div>
         <div className="cta">
-          <a href="#" className="cta-link cta-link darker">Learn More</a>
-          <a href="#" className="cta-link cta-link darker">Buy</a>
+          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3" className="cta-link cta-link darker">Learn More</a>
+          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3" className="cta-link cta-link darker">Buy</a>
         </div>
       </div>
     </div>
@@ -94,8 +93,8 @@ function App() {
                 You've never seen a watch like this</h3>
         </div>
         <div className="cta">
-          <a href="#" className="cta-link cta-link darker">Learn More</a>
-          <a href="#" className="cta-link cta-link darker">Buy</a>
+          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3" className="cta-link cta-link darker">Learn More</a>
+          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3" className="cta-link cta-link darker">Buy</a>
         </div>
       </div>
     </div>
