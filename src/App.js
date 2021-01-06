@@ -50,7 +50,7 @@ function App() {
                 <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-search"><noscript>fff</noscript></a>
               </li>
               <li className="nav-item nav-item-hidden">
-                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link-bag"></a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link-bag"><noscript>fff</noscript></a>
               </li>
             </ul>
             {/* <nav-list nav-list-larger> */}
