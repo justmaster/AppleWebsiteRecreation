@@ -14,16 +14,16 @@ function App() {
                 </div>
               </li>
               <li className="nav-item">
-                <a href="index.html" className="nav-link nav-link-apple"></a>
+                <a href="index.html" className="nav-link nav-link-apple"><noscript>fff</noscript></a>
               </li>
               <li className="nav-item">
-                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link-bag"></a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link-bag"><noscript>fff</noscript></a>
               </li>
             </ul>
             {/* <nav-list nav-list-mobile> */}
             <ul className="nav-list nav-list-larger">
               <li className="nav-item">
-                <a href="index.html" className="nav-link nav-link-apple"></a>
+                <a href="index.html" className="nav-link nav-link-apple"><noscript>fff</noscript></a>
               </li>
               <li className="nav-item">
                 <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link">У</a>
@@ -47,7 +47,7 @@ function App() {
                 <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link">Ха</a>
               </li>
               <li className="nav-item">
-                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-search"></a>
+                <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-search"><noscript>fff</noscript></a>
               </li>
               <li className="nav-item nav-item-hidden">
                 <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3' className="nav-link nav-link-bag"></a>
@@ -88,7 +88,7 @@ function App() {
     <div className="hero watch">
       <div className="container">
         <div className="title title-dark">
-          <h2 className="title-heading-watch"></h2>
+          <h2 className="title-heading-watch"><noscript>fff</noscript></h2>
           <h3 className="title-sub-heading">With the new Alway On Retina Display
                 You've never seen a watch like this</h3>
         </div>
